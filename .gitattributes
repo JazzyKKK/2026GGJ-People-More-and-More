@@ -1,0 +1,2 @@
+PeopleMoreAndMore/GGJ_gamedemo/Content/Paks/GGJ_gamedemo-Windows.ucas filter=lfs diff=lfs merge=lfs -text
+PeopleMoreAndMore/GGJ_gamedemo/Binaries/Win64/GGJ_gamedemo-Win64-Shipping.exe filter=lfs diff=lfs merge=lfs -text
